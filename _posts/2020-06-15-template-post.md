@@ -16,16 +16,7 @@ comments: false
 *italics text here*
 **bold text here**
 > blockquote text here
-# horizontal rule
---- 
-# ![Image Name](https://image_link.png)             #image inclusion  
-    
-# <center>Centered text caption here</center>       #centered text
-     
-# Basic text here                                   #basic text
-        
 
-# Tiled images
 <!---
 {% image-group name here %}
 	https://image_1.png
