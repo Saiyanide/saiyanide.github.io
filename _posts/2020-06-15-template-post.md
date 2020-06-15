@@ -17,14 +17,6 @@ comments: false
 **bold text here**
 > blockquote text here
 
-<!---
-{% image-group name here %}
-	https://image_1.png
-	https://image_2.png
-	https://image_3.png
-{% image-group end here %}
-{% include gallery images=images caption="Image caption here" cols=3 %}
---->
 # Code highlighting
 {% highlight yaml %}
 insert code here
