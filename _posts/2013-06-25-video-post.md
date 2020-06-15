@@ -2,12 +2,9 @@
 layout: post
 title:  "A Post with a Video"
 date:   2016-03-15
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
-tag:
-- sample
-- post
-- video
-comments: true
+excerpt: "Sample: Custom written post descriptions are the way to go... if you're not lazy."
+tags: [sample post]
+comments: false
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
 

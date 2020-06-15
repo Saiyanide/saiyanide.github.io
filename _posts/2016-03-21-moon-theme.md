@@ -2,14 +2,9 @@
 layout: post
 title:  "Moon Jekyll Theme"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "Sample: Minimal, one column Jekyll theme for your blog."
 project: false
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+tags: [sample post]
 comments: false
 ---
 
