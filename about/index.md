@@ -6,6 +6,8 @@ date: 2020-06-15
 comments: false
 ---
 ## TBD
+Welcome to my Blog! I go by the handle <b><i>'Saiyanide'</i></b>. &nbsp;I'm a Cybersec script-kiddie that likes dabbling in Forensics, OSINT, CTFs and the like!
+This is my little space to keep track and display many of the projects i'm working on! (ranging from SDR, Games, Music, Languages).
 <!---
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
